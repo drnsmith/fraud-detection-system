@@ -8,3 +8,4 @@ __pycache__/
 data/raw/
 __pycache__/
 *.pyc
+models_saved/*.pkl
