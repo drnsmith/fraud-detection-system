@@ -5,4 +5,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 EXPOSE 7860
 ENV PORT=7860
-CMD ["gunicorn", "dashboard.app:server", "--bind", "0.0.0.0:7860"]
+CMD ["gunicorn", "dashboard.app:server", "--bind", "0.0.0.0:7860", "--timeout", "120"]
