@@ -4,11 +4,10 @@ emoji: 🔍
 colorFrom: red
 colorTo: red
 sdk: docker
+sdk_version: "1.0"
 pinned: false
 ---
 
 # Financial Fraud Detection System
 
-XGBoost + Isolation Forest ensemble on PaySim dataset. ROC-AUC 0.9931.
-
-**GitHub:** https://github.com/drnsmith/fraud-detection-system
+XGBoost + Isolation Forest ensemble. ROC-AUC 0.9931.
