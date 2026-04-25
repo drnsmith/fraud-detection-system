@@ -1,6 +1,6 @@
 # Financial Fraud Detection System
 
-**Live demo:** https://drnsmith-fraud-detection-system.hf.space
+**Live demo:** [https://drnsmith-fraud-detection-system.hf.space](https://huggingface.co/spaces/drnsmith/fraud-detection-system)
 
 ---
 
